@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="Radio15">15 years</string>
+    <string name="Radio20">20 years</string>
+    <string name="Radio30">30 years</string>
+    <string name="SliderText">Annual interest, %</string>
+    <string name="Years">Loan term</string>
+    <string name="Amount">Enter the loan amount</string>
+    <string name="DefaultResult">$0.0</string>
+    <string name="CheckTax">Taxes and Insurance</string>
+    <string name="Calc">Calculate</string>
+</resources>
